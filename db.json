@@ -1,0 +1,83 @@
+{
+  "categories": [
+    { 
+      "id": 1, 
+      "name": "政治", 
+      "cover": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 2, 
+      "name": "體育", 
+      "cover": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 3, 
+      "name": "娛樂", 
+      "cover": "https://plus.unsplash.com/premium_photo-1661964427876-e72c77991280?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 4, 
+      "name": "財經", 
+      "cover": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 5, 
+      "name": "國際", 
+      "cover": "https://plus.unsplash.com/premium_photo-1670517733920-0bb8aa85d759?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 6, 
+      "name": "科技", 
+      "cover": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 7, 
+      "name": "旅遊", 
+      "cover": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    },
+    { 
+      "id": 8, 
+      "name": "健康", 
+      "cover": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=720&q=80"
+    }
+  ],
+  "sources": [
+    { "id": "fae72289-6144-4375-af38-c575efb4feba", "name": "ChatGPT", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/1a/74/a51a745e-c27f-5bc6-9cf3-d45548674aba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"},
+    { "id": "2ba08110-c8e0-4df6-93e6-0e1d358fd5a0", "name": "Bard", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/e7/b9/f9e7b95e-a36e-b74c-d043-b44839e695b5/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/230x0w.webp"},
+    { "id": "00c28038-3b4f-4abc-a339-4f04303d9a05", "name": "Bing", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/82/f1/bb82f113-5fa8-3e97-051f-6712d2a0724d/AppIcon-0-1x_U007epad-0-sRGB-85-220.png/230x0w.webp"},
+    { "id": "d47d6758-604f-4f95-bc83-c810258a17bc", "name": "TruthGPT", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/a5/72/00a5723d-4bd6-beca-8573-74c0ceed2b9f/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/230x0w.webp"},
+    { "id": "2f112eb1-4b9b-4f5b-8ff7-927dc9bc4157", "name": "文心一言", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/28/5a/40285ac3-3746-93e7-2fe6-6cf7df9f150c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"}
+  ],
+  "posts": [
+    { 
+      "id": "20047303-6cbc-4738-b1c6-41c2a205bb5b", 
+      "title": "國際領袖齊聚首，討論全球政治議題",
+      "cover": "",
+      "category": "國際",
+      "source": { "id": "fae72289-6144-4375-af38-c575efb4feba", "name": "ChatGPT", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/1a/74/a51a745e-c27f-5bc6-9cf3-d45548674aba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"},
+      "body": " 本週，在一場盛大的國際峰會上，來自各國的領袖們齊聚一堂，共同討論世界面臨的重要政治議題。此次峰會的召開引起了全球關注，各國代表將分享各自的觀點並探討合作方案，以應對眾多共同挑戰。此次峰會的主題廣泛，涵蓋了多個關鍵議題，包括國際安全、經濟合作、氣候變化以及區域衝突等。預計在會議期間，與會代表將進行多輪深入的討論，旨在找到可行的解決方案，締造更加穩定和繁榮的全球環境。總之，此次國際峰會將是領袖們共同交流、合作的重要平台。各國代表將分享他們的觀點，就全球政治議題展開建設性對話，為創造更穩定、更繁榮的世界做出努力。我們期待著這次峰會取得實質性的成果，為國際社會的發展注入新的動力。",
+      "postTime": "4 小時前"
+    },
+    {
+      "id": "",
+      "title": "奧運冠軍齊聚，國際體壇探討運動科技創新",
+      "cover": "",
+      "category": "體育",
+      "source": { "id": "fae72289-6144-4375-af38-c575efb4feba", "name": "ChatGPT", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/1a/74/a51a745e-c27f-5bc6-9cf3-d45548674aba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"},
+      "body": "本週，在一場引人矚目的國際體育科技研討會上，來自世界各地的奧運冠軍和體育專家齊聚一堂，共同探討運動科技的最新創新。此次研討會將集結運動領域的頂尖人才，共同探索如何運用先進技術提升運動表現。研討會的主題涵蓋了多個領域，包括運動生理學、數據分析、材料科學等。與會專家將分享他們在這些領域的研究成果，並就如何將科技應用於運動訓練和比賽中進行深入討論。這些創新性的科技包括虛擬實境訓練、生物感測技術以及智能裝備等。奧運冠軍們也將分享他們在訓練和比賽中運用科技的經驗。他們將介紹科技如何幫助他們更好地了解自己的身體狀態，優化訓練計劃，並在比賽中取得更出色的成績。此次研討會為全球體育科技領域的專家和運動員提供了一個交流合作的平台。這種跨領域的合作將有助於推動運動科技的發展，不僅提升運動員的表現，也為整個體育界帶來更多創新和突破。",
+      "postTime": "1 小時前"
+    },
+    {
+      "id": "",
+      "title": "明星齊聚，共同探討娛樂產業的未來",
+      "cover": "",
+      "category": "娛樂",
+      "source": { "id": "fae72289-6144-4375-af38-c575efb4feba", "name": "ChatGPT", "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/1a/74/a51a745e-c27f-5bc6-9cf3-d45548674aba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"},
+      "body": "本週，在一場引人矚目的娛樂產業研討會上，來自世界各地的明星和專家齊聚一堂，共同探討娛樂產業的未來。此次研討會將集結娛樂界的頂尖人才，共同探索如何運用先進技術提升娛樂體驗。研討會的主題涵蓋了多個領域，包括電影、音樂、遊戲等。與會專家將分享他們在這些領域的研究成果，並就如何運用科技創新娛樂體驗進行深入討論。這些創新性的科技包括虛擬實境、增強現實、人工智能等。明星們也將分享他們在娛樂產業中運用科技的經驗。他們將介紹科技如何幫助他們創作更好的作品，並為觀眾帶來更好的娛樂體驗。此次研討會為全球娛樂產業的專家和明星提供了一個交流合作。",
+      "postTime": "1 小時前"
+    }
+  ],
+  "hot_keywords": [
+    "奧運", "2023 鐵人賽", "領袖", "世界衛生組織", "聯合國", "Flutter", "疫苗", "新冠肺炎"
+  ]
+}
